@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resume</title>
+</head>
+<body>
+    <div id="header">
+        <h1 id="name">shubham shinde</h1>
+        <ul>
+            <li>email <a href="">shindedhubham11101@gmail.com</a></li>
+            <li>address :- pune , maharastra.</li>
+        </ul>
+
+    </div>
+    <div id="body">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos ratione praesentium magni in molestias, sequi laborum officiis expedita aperiam a! At quae reiciendis assumenda voluptatum soluta ex ab! Quasi accusamus fugiat doloribus molestiae libero laudantium, dolores aliquid, inventore quos ratione blanditiis maiores quo, nesciunt voluptate? Deserunt consequatur incidunt necessitatibus atque cupiditate amet harum eaque autem nesciunt veniam quo consectetur illo, recusandae labore temporibus possimus ut, ipsam corrupti dolores fuga. Nemo accusamus iste ab officia corrupti modi perferendis. Sequi accusantium dicta commodi eaque ea, minima soluta ratione corrupti architecto recusandae illum nam ad voluptates quam, quos assumenda, id doloremque totam eos.</p>
+        <br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur itaque necessitatibus, laboriosam, libero ullam laudantium iusto unde incidunt quam sapiente non labore ipsam nostrum provident reiciendis vero aliquid ab laborum perferendis recusandae corporis? Error, optio iste. Necessitatibus reprehenderit, natus molestias ducimus magni id inventore ad, aspernatur eum vitae enim.</p>
+        <section>
+            <ul>
+                <li>skills:- javascript,python,cpp,web developer,etc.</li>
+                <li>experiance:-nill</li>
+                <li>projects:- food ordering web, personal portfolio, etc</li>
+
+            </ul>
+        </section>
+
+    </div>
+    <div id="footer">
+        <input type="submit" value="">
+        <label for="">sorce page :- <a href="/"></a></label>
+        <a href="git hub ">git hub link</a>
+
+    </div>
+</body>
+</html>
